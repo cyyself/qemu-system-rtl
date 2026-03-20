@@ -1,0 +1,9 @@
+[submodule "rocket-chip"]
+	path = rocket-chip
+	url = https://github.com/chipsalliance/rocket-chip.git
+[submodule "soc-simulator"]
+	path = soc-simulator
+	url = https://github.com/cyyself/soc-simulator.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/qemu/qemu.git

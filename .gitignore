@@ -1,0 +1,11 @@
+# Build artifacts
+out/
+*.o
+*.elf
+*.bin
+
+# Editor / IDE
+.vscode/
+*.swp
+*~
+initramfs*
